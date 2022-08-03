@@ -4,9 +4,7 @@
 ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=exelentshakil&count_private=true)
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play guitar / flute
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 
 ### Languages and Tools:
