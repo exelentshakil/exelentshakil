@@ -1,10 +1,11 @@
 ### Hi there, I'm Shakil Ahmed 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!!
+I write blog here: [Blog](https://barakahsoft.com/blog/)
 ![Shakil's github stats](https://github-readme-stats.vercel.app/api?username=exelentshakil&count_private=true)
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to Open Source projects
 
 
 ### Languages and Tools:
